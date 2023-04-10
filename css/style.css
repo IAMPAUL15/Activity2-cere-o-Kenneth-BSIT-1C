@@ -73,3 +73,32 @@ div:nth-child(4){
 div:nth-child(4) a:hover{
     color: red;
 }
+#services{
+    text-align: center;
+    margin-top: 200px;
+    background-color: lightgray;
+}
+ul li{
+    display: inline-block;
+    background-color: white;
+    padding: 30px;
+    margin-top: 30px;
+    width: 10%;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+li:first-child:hover{
+    background-color: orangered;
+}
+li:nth-child(4):hover{
+    box-shadow: 0 1px 3px 3px rgba(0,0,0,0.19);
+}
+li:nth-child(3):hover{
+    box-shadow: 0 1px 3px 3px rgba(0,0,0,0.19);
+}
+li:nth-child(2):hover{
+    box-shadow: 0 1px 3px 3px rgba(0,0,0,0.19);
+}
+li:nth-child(5):hover{
+    box-shadow: 0 1px 3px 3px rgba(0,0,0,0.19);
+}

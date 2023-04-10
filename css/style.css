@@ -73,3 +73,8 @@ div:nth-child(4){
 div:nth-child(4) a:hover{
     color: red;
 }
+#services{
+    text-align: center;
+    margin-top: 200px;
+    background-color: lightgray;
+}

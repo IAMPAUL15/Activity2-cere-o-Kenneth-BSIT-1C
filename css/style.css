@@ -29,3 +29,14 @@
     bottom: 240px;
     left: 500px;
 }
+#blog{
+    margin-top: 130px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+img{
+    height: 150px;
+    width: 250px;
+    align-items: center;
+}

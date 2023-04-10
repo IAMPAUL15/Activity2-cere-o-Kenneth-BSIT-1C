@@ -56,3 +56,8 @@ div h3{
     padding-top: 3px;
     margin-right: 100px;
 }
+div p{
+    padding: 10px;
+    text-align: justify;
+    padding: 20px;
+}

@@ -52,3 +52,7 @@ img{
     justify-content: space-between;
     box-shadow: 1px 1px 1px lightgray;
 }
+div h3{
+    padding-top: 3px;
+    margin-right: 100px;
+}
